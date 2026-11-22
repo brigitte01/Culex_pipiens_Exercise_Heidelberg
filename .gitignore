@@ -1,0 +1,13 @@
+# R workspace and history
+.RData
+.Rhistory
+.Ruserdata/
+
+# RStudio temporary files
+.Rproj.user/
+
+# Temporary setup file
+empty_tracker.txt
+
+# Temporary files
+*.tmp
